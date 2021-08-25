@@ -1,1 +1,1 @@
-# destination.github.io
+# destinator.github.io
