@@ -1,1 +1,1 @@
-# destinator.github.io
+# vacations.github.io
